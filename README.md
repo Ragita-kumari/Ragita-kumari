@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://twitter.com/tutorials81995" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tutorials81995" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ragita-kumari-433509273?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ragita-kumari-433509273?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
-<a href="https://instagram.com/_ragita_123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ragita_123" height="30" width="40" /></a>
+
 <a href="https://www.leetcode.com/ragita_123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ragita_123" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/ragitakuth3b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ragitakuth3b" height="30" width="40" /></a>
 </p>
