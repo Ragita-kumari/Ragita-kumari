@@ -122,24 +122,4 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ragita-kumari&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ragita-kumari&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ragita-kumari&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ragita-kumari&label=Profile%20Views&color=6A5ACD&style=flat" alt="Profile Views" />
-</p>
-
 <p align="center">⭐ <i>If you find my projects useful, consider giving them a star!</i> ⭐</p>
